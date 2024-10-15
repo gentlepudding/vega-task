@@ -1,0 +1,52 @@
+{
+    "id": "4aaf4b36-9d3e-41e3-bc67-5fa3170edcae",
+    "asOf": "2024-10-15T14:48:00Z",
+    "positions": [
+      {
+        "id": 1,
+        "asset": {
+          "id": "abc12345-def6-7890-ghij-klmnopqrstuv",
+          "name": "AAPL",
+          "type": "stock"
+        },
+        "quantity": 10,
+        "asOf": "2024-10-15T14:48:00Z",
+        "price": {
+          "id": "price-abc123",
+          "asset": "AAPL",
+          "price": 290.32
+        }
+      },
+      {
+        "id": 2,
+        "asset": {
+          "id": "xyz12345-def6-7890-ghij-klmnopqrstuv",
+          "name": "BTC",
+          "type": "crypto"
+        },
+        "quantity": 2,
+        "asOf": "2024-10-15T14:48:00Z",
+        "price": {
+          "id": "price-btc456",
+          "asset": "BTC",
+          "price": 45000
+        }
+      },
+      {
+        "id": 3,
+        "asset": {
+          "id": "ghi12345-def6-7890-ghij-klmnopqrstuv",
+          "name": "GBP",
+          "type": "fiat"
+        },
+        "quantity": 1000,
+        "asOf": "2024-10-15T14:48:00Z",
+        "price": {
+          "id": "price-gbp789",
+          "asset": "GBP",
+          "price": 1.22
+        }
+      }
+    ]
+  }
+  

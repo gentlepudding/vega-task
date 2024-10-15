@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "type": "cryptocurrency",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "quantity": 1.2345,
+      "current_value_usd": 62000,
+      "allocation_percentage": 35.5,
+      "asset": "BTC",
+      "value": 17000
+    },
+    {
+      "id": "2",
+      "type": "stock",
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "quantity": 10,
+      "current_value_usd": 1500,
+      "allocation_percentage": 8.6,
+      "asset": "AAPL",
+      "value": 7000
+    },
+    {
+      "id": "3",
+      "type": "stock",
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "quantity": 5,
+      "current_value_usd": 700,
+      "allocation_percentage": 4.0,
+      "asset": "GBP",
+      "value": 10000
+    },
+    {
+      "id": "4",
+      "type": "cash",
+      "currency": "USD",
+      "amount": 20000,
+      "allocation_percentage": 52.0,
+      "asset": "CASH",
+      "value": 15000
+    }
+  ]
+  
